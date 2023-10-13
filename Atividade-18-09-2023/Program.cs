@@ -4,7 +4,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ED1I4.Atividade6
+namespace Atividade-18-09-2023
+
 {
     internal static class Program
     {
